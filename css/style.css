@@ -406,12 +406,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000', endCol
 	text-align: left;
 }
 #contact i.fa {
-	color: #fff;
+	color: #000;
 
 
 }
 
  #contact .myEmail{
+	 color: #000;
 	 font-size: 18px;
 	 font-family: sans-serif;
 	 font-weight: bold;
