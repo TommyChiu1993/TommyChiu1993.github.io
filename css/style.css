@@ -15,7 +15,7 @@ body, html {
 body{
     overflow-x:hidden;
 }
-/* Fading Effect*/
+/* Hides fadeInBlock*/
 .fadeInBlock{
   opacity:0;
 }
